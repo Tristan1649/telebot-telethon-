@@ -1,5 +1,5 @@
 # telebot-telethon-
-Bot make with Telethon
+Making Bot with Telethon
 <h3>How to get start?</h3>
 
 Create venv: <b>python3 -m venv venv</b>
