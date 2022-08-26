@@ -1,0 +1,6 @@
+app_config.py
+telegram_session.session
+venv/
+
+__pycache__/
+
